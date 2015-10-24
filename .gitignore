@@ -1,3 +1,6 @@
+/gradle
+/SwipeLayout.iml
+/.idea
 # Built application files
 *.apk
 *.ap_
